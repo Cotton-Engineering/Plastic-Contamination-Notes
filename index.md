@@ -11,7 +11,7 @@ This Project is an Open-Source Effort to Help Improve Cotton Engineering Technol
 - - utilizing these trained classifiers in live video classification applications
 - - Current processing speed dependent upon CPU and GPU; initial tests run from 40 to 111 frames per second depending upon platform tested on.
 
-- For details on software usage, please view video walk-through
+- For details on software usage, please view video walk-through and image processing flow diagram
 
 # TARGET USAGE
 - Target utilization is for use in Cotton Gins for purpose of detection of plastic contamination with agenda to develop systems that can prevent and remove contamination from cotton during harvest and post-harvest processing
