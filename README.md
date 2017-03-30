@@ -1,4 +1,4 @@
-# Plastic-Contamination
+# Plastic-Contamination  
 Development of Systems to Identify and Remove Plastic Contamination From Cotton
 
 # Machine Vision Sensor Development
@@ -10,24 +10,25 @@ Development of Systems to Identify and Remove Plastic Contamination From Cotton
 
 # Development Team
 
-United States Department of Agricultural
-Agricultural Research Services
-Cotton Production and Processing Research Unit
-Lubbock, TX
+United States Department of Agricultural  
+Agricultural Research Services  
+Cotton Production and Processing Research Unit  
+Lubbock, TX  
 
 - Mathew G. Pelletier
 - Greg A. Holt
 - John D. Wanjura
 
-United States Department of Agricultural
-Agricultural Research Services
-Cotton Ginning Research
-Las Cruces, NM
+United States Department of Agricultural  
+Agricultural Research Services  
+Cotton Ginning Research  
+Las Cruces, NM  
 
 - Derek Whitelock
 
-Cotton Incorporated
-Cary, NC
+Cotton Incorporated  
+Cary, NC  
 
 - Edward M. Barnes
+
 
