@@ -24,7 +24,7 @@ Agricultural Research Services
 Cotton Ginning Research  
 Las Cruces, NM  
 
-- Derek Whitelock
+- Derek P. Whitelock
 
 Cotton Incorporated  
 Cary, NC  
