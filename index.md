@@ -3,18 +3,18 @@
 This Project is an Open-Source Effort to Help Improve Cotton Engineering Technologies
 
 # Implementations
-- Software designed to help develop real-time machine vision system for detection of plastic contamination in cotton processing and harvest operations.  Software is also readily adaptable to most machine vision recognition problems utilizing traditionaly machine-vision and object classification algorithms.
+- Software designed to help develop real-time machine vision system for detection of plastic contamination in cotton processing and harvest operations.  Software is also readily adaptable to most machine vision recognition problems utilizing traditional machine-vision and object classification algorithms.
 - System is targeted for use in cotton gins, on harvesters and UAV's.  Also readily applicable for use in High Performance Phenotyping.
 
 - Software includes support for;
 - - developing and building classifiers 
-- - utilizing these trained classifiers in live video classification
+- - utilizing these trained classifiers in live video classification applications
 - - Current processing speed dependent upon CPU and GPU; initial tests run from 40 to 111 frames per second depending upon platform tested on.
 
 - For details on software usage, please view video walk-through
 
 # TARGET USAGE
-- Target utilization is for use in Cotton Gins for purpose of detection of plastic contamination with agenda to develop systems that can prevent and remove contamination from cotton during post-harvest processing
+- Target utilization is for use in Cotton Gins for purpose of detection of plastic contamination with agenda to develop systems that can prevent and remove contamination from cotton during harvest and post-harvest processing
 
 # DEVELOPMENT TEAM
 
