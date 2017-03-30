@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Welcome to Cotton Engineering Development Site For Plastic Contamination Sensor Development
 
-You can use the [editor on GitHub](https://github.com/Cotton-Engineering/Plastic-Contamination/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This Project is an Open-Source Effort to Help Improve Cotton Engineering Technologies
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Implementations
+- Software designed to help develop real-time machine vision system for detection of plastic contamination in cotton processing and harvest operations.  Software is also readily adaptable to most machine vision recognition problems utilizing traditionaly machine-vision and object classification algorithms.
+- System is targeted for use in cotton gins, on harvesters and UAV's.  Also readily applicable for use in High Performance Phenotyping.
 
-### Markdown
+- Software includes support for;
+- - developing and building classifiers 
+- - utilizing these trained classifiers in live video classification
+- - Current processing speed dependent upon CPU and GPU; initial tests run from 40 to 111 frames per second depending upon platform tested on.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- For details on software usage, please view video walk-through
 
-```markdown
-Syntax highlighted code block
+# TARGET USAGE
+- Target utilization is for use in Cotton Gins for purpose of detection of plastic contamination with agenda to develop systems that can prevent and remove contamination from cotton during post-harvest processing
 
-# Header 1
-## Header 2
-### Header 3
+# DEVELOPMENT TEAM
 
-- Bulleted
-- List
+USDA-ARS Cotton Production and Processing Research Unit
+Lubbock TX
+Mathew G. Pelletier
+Greg A. Holt
+John D. Wanjura
 
-1. Numbered
-2. List
+USDA-ARS Cotton Ginning Research
+Las Cruces, NM
+Derek P. Whitelock
+Sidney E. Hughs (Ed)
+Paul Funk
+Carlos Armijo
 
-**Bold** and _Italic_ and `Code` text
+Texas A&M 
+College Station, TX
+Alex Thomasson
 
-[Link](url) and ![Image](src)
-```
+Cotton Incorporated
+Edward M. Barnes
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Lead Software Developer Contact
+Mathew.Pelletier@ars.usda.gov
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cotton-Engineering/Plastic-Contamination/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
