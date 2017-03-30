@@ -15,23 +15,19 @@ Agricultural Research Services
 Cotton Production and Processing Research Unit
 Lubbock, TX
 
-Mathew G. Pelletier
-Greg A. Holt
-John D. Wanjura
+- Mathew G. Pelletier
+- Greg A. Holt
+- John D. Wanjura
 
 United States Department of Agricultural
 Agricultural Research Services
 Cotton Ginning Research
 Las Cruces, NM
 
-Derek Whitelock
+- Derek Whitelock
 
 Cotton Incorporated
 Cary, NC
 
-Edward M. Barnes
+- Edward M. Barnes
 
-
-Software Development Contact
-Mathew G Pelletier
-mathew.pelletier@ars.usda.gov
