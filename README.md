@@ -3,7 +3,7 @@ This directory contains notes for usage and over-views for the Plastic Contamina
   
 Note 1: All the relevant files are in the Docs directory  
   
-Note 2: the Src directory contains a saved backup of the original files as an original backup for safe keeping.  
+Note 2: the Src directory contains a saved backup of the original files as an backup for safe keeping.  
 In practice, please get the software from the Plastic-Contamination-Src repository as it will have the latest version.
   
 # Information
